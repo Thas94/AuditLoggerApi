@@ -3,20 +3,40 @@
   "WorkspaceRootPath": "C:\\Websites\\AuditLogger\\AuditLog.API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{607F78DB-E334-452D-A4C7-064F4F5A0C26}|AuditLog.API\\AuditLog.API.csproj|c:\\websites\\auditlogger\\auditlog.api\\auditlog.api\\models\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{607F78DB-E334-452D-A4C7-064F4F5A0C26}|AuditLog.API\\AuditLog.API.csproj|solutionrelative:auditlog.api\\models\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{607F78DB-E334-452D-A4C7-064F4F5A0C26}|AuditLog.API\\AuditLog.API.csproj|c:\\websites\\auditlogger\\auditlog.api\\auditlog.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{607F78DB-E334-452D-A4C7-064F4F5A0C26}|AuditLog.API\\AuditLog.API.csproj|solutionrelative:auditlog.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{607F78DB-E334-452D-A4C7-064F4F5A0C26}|AuditLog.API\\AuditLog.API.csproj|c:\\websites\\auditlogger\\auditlog.api\\auditlog.api\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{607F78DB-E334-452D-A4C7-064F4F5A0C26}|AuditLog.API\\AuditLog.API.csproj|solutionrelative:auditlog.api\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{607F78DB-E334-452D-A4C7-064F4F5A0C26}|AuditLog.API\\AuditLog.API.csproj|c:\\websites\\auditlogger\\auditlog.api\\auditlog.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{607F78DB-E334-452D-A4C7-064F4F5A0C26}|AuditLog.API\\AuditLog.API.csproj|solutionrelative:auditlog.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{607F78DB-E334-452D-A4C7-064F4F5A0C26}|AuditLog.API\\AuditLog.API.csproj|c:\\websites\\auditlogger\\auditlog.api\\auditlog.api\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{607F78DB-E334-452D-A4C7-064F4F5A0C26}|AuditLog.API\\AuditLog.API.csproj|solutionrelative:auditlog.api\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{607F78DB-E334-452D-A4C7-064F4F5A0C26}|AuditLog.API\\AuditLog.API.csproj|c:\\websites\\auditlogger\\auditlog.api\\auditlog.api\\services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{607F78DB-E334-452D-A4C7-064F4F5A0C26}|AuditLog.API\\AuditLog.API.csproj|solutionrelative:auditlog.api\\services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{607F78DB-E334-452D-A4C7-064F4F5A0C26}|AuditLog.API\\AuditLog.API.csproj|c:\\websites\\auditlogger\\auditlog.api\\auditlog.api\\models\\userloginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{607F78DB-E334-452D-A4C7-064F4F5A0C26}|AuditLog.API\\AuditLog.API.csproj|solutionrelative:auditlog.api\\models\\userloginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{607F78DB-E334-452D-A4C7-064F4F5A0C26}|AuditLog.API\\AuditLog.API.csproj|c:\\websites\\auditlogger\\auditlog.api\\auditlog.api\\models\\userresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{607F78DB-E334-452D-A4C7-064F4F5A0C26}|AuditLog.API\\AuditLog.API.csproj|solutionrelative:auditlog.api\\models\\userresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{607F78DB-E334-452D-A4C7-064F4F5A0C26}|AuditLog.API\\AuditLog.API.csproj|c:\\websites\\auditlogger\\auditlog.api\\auditlog.api\\services\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{607F78DB-E334-452D-A4C7-064F4F5A0C26}|AuditLog.API\\AuditLog.API.csproj|solutionrelative:auditlog.api\\services\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{607F78DB-E334-452D-A4C7-064F4F5A0C26}|AuditLog.API\\AuditLog.API.csproj|c:\\websites\\auditlogger\\auditlog.api\\auditlog.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{607F78DB-E334-452D-A4C7-064F4F5A0C26}|AuditLog.API\\AuditLog.API.csproj|solutionrelative:auditlog.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{607F78DB-E334-452D-A4C7-064F4F5A0C26}|AuditLog.API\\AuditLog.API.csproj|c:\\websites\\auditlogger\\auditlog.api\\auditlog.api\\models\\userregistrationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{607F78DB-E334-452D-A4C7-064F4F5A0C26}|AuditLog.API\\AuditLog.API.csproj|solutionrelative:auditlog.api\\models\\userregistrationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{607F78DB-E334-452D-A4C7-064F4F5A0C26}|AuditLog.API\\AuditLog.API.csproj|c:\\websites\\auditlogger\\auditlog.api\\auditlog.api\\models\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{607F78DB-E334-452D-A4C7-064F4F5A0C26}|AuditLog.API\\AuditLog.API.csproj|solutionrelative:auditlog.api\\models\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,43 +46,109 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Websites\\AuditLogger\\AuditLog.API\\AuditLog.API\\Program.cs",
-              "RelativeDocumentMoniker": "AuditLog.API\\Program.cs",
-              "ToolTip": "C:\\Websites\\AuditLogger\\AuditLog.API\\AuditLog.API\\Program.cs",
-              "RelativeToolTip": "AuditLog.API\\Program.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAEQAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-05T14:53:53.502Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "UserController.cs",
               "DocumentMoniker": "C:\\Websites\\AuditLogger\\AuditLog.API\\AuditLog.API\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "AuditLog.API\\Controllers\\UserController.cs",
               "ToolTip": "C:\\Websites\\AuditLogger\\AuditLog.API\\AuditLog.API\\Controllers\\UserController.cs",
               "RelativeToolTip": "AuditLog.API\\Controllers\\UserController.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAiwCIAAAA8AAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB8AAABgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-05T15:35:46.889Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Websites\\AuditLogger\\AuditLog.API\\AuditLog.API\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "AuditLog.API\\Services\\UserService.cs",
+              "ToolTip": "C:\\Websites\\AuditLogger\\AuditLog.API\\AuditLog.API\\Services\\UserService.cs",
+              "RelativeToolTip": "AuditLog.API\\Services\\UserService.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAjwDgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T17:57:30.394Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "UserModel.cs",
-              "DocumentMoniker": "C:\\Websites\\AuditLogger\\AuditLog.API\\AuditLog.API\\Models\\UserModel.cs",
-              "RelativeDocumentMoniker": "AuditLog.API\\Models\\UserModel.cs",
-              "ToolTip": "C:\\Websites\\AuditLogger\\AuditLog.API\\AuditLog.API\\Models\\UserModel.cs",
-              "RelativeToolTip": "AuditLog.API\\Models\\UserModel.cs",
+              "Title": "UserLoginModel.cs",
+              "DocumentMoniker": "C:\\Websites\\AuditLogger\\AuditLog.API\\AuditLog.API\\Models\\UserLoginModel.cs",
+              "RelativeDocumentMoniker": "AuditLog.API\\Models\\UserLoginModel.cs",
+              "ToolTip": "C:\\Websites\\AuditLogger\\AuditLog.API\\AuditLog.API\\Models\\UserLoginModel.cs",
+              "RelativeToolTip": "AuditLog.API\\Models\\UserLoginModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T18:57:31.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserResponseModel.cs",
+              "DocumentMoniker": "C:\\Websites\\AuditLogger\\AuditLog.API\\AuditLog.API\\Models\\UserResponseModel.cs",
+              "RelativeDocumentMoniker": "AuditLog.API\\Models\\UserResponseModel.cs",
+              "ToolTip": "C:\\Websites\\AuditLogger\\AuditLog.API\\AuditLog.API\\Models\\UserResponseModel.cs",
+              "RelativeToolTip": "AuditLog.API\\Models\\UserResponseModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T18:29:56.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Websites\\AuditLogger\\AuditLog.API\\AuditLog.API\\Services\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "AuditLog.API\\Services\\Interfaces\\IUserService.cs",
+              "ToolTip": "C:\\Websites\\AuditLogger\\AuditLog.API\\AuditLog.API\\Services\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "AuditLog.API\\Services\\Interfaces\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T18:25:51.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Websites\\AuditLogger\\AuditLog.API\\AuditLog.API\\Program.cs",
+              "RelativeDocumentMoniker": "AuditLog.API\\Program.cs",
+              "ToolTip": "C:\\Websites\\AuditLogger\\AuditLog.API\\AuditLog.API\\Program.cs",
+              "RelativeToolTip": "AuditLog.API\\Program.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAAAFsAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T14:53:53.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BaseService.cs",
+              "DocumentMoniker": "C:\\Websites\\AuditLogger\\AuditLog.API\\AuditLog.API\\Services\\BaseService.cs",
+              "RelativeDocumentMoniker": "AuditLog.API\\Services\\BaseService.cs",
+              "ToolTip": "C:\\Websites\\AuditLogger\\AuditLog.API\\AuditLog.API\\Services\\BaseService.cs",
+              "RelativeToolTip": "AuditLog.API\\Services\\BaseService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T17:52:09.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserRegistrationModel.cs",
+              "DocumentMoniker": "C:\\Websites\\AuditLogger\\AuditLog.API\\AuditLog.API\\Models\\UserRegistrationModel.cs",
+              "RelativeDocumentMoniker": "AuditLog.API\\Models\\UserRegistrationModel.cs",
+              "ToolTip": "C:\\Websites\\AuditLogger\\AuditLog.API\\AuditLog.API\\Models\\UserRegistrationModel.cs",
+              "RelativeToolTip": "AuditLog.API\\Models\\UserRegistrationModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-05T15:34:36.482Z",
@@ -70,13 +156,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 8,
               "Title": "DatabaseContext.cs",
               "DocumentMoniker": "C:\\Websites\\AuditLogger\\AuditLog.API\\AuditLog.API\\Models\\DatabaseContext.cs",
               "RelativeDocumentMoniker": "AuditLog.API\\Models\\DatabaseContext.cs",
               "ToolTip": "C:\\Websites\\AuditLogger\\AuditLog.API\\AuditLog.API\\Models\\DatabaseContext.cs",
               "RelativeToolTip": "AuditLog.API\\Models\\DatabaseContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABSAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAAMwCMAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-05T14:51:07.909Z",
               "EditorCaption": ""

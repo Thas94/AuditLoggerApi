@@ -6,7 +6,7 @@ namespace AuditLog.API
     public class MappingProfile : Profile
     {
         public MappingProfile() {
-            CreateMap<UserModel, UserIdentity>()
+            CreateMap<UserRegistrationModel, UserIdentity>()
                 .ForMember(u => u.UserName, dest => dest.MapFrom(x => x.Email));
         }
     }

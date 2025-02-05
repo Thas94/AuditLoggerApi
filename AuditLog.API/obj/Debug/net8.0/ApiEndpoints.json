@@ -9,26 +9,46 @@
     "Parameters": [
       {
         "Name": "userModel",
-        "Type": "AuditLog.API.Models.UserModel",
+        "Type": "AuditLog.API.Models.UserRegistrationModel",
         "IsRequired": true
       }
     ],
-    "ReturnTypes": []
+    "ReturnTypes": [
+      {
+        "Type": "AuditLog.API.Models.UserResponseModel",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
   },
   {
     "ContainingType": "AuditLog.API.Controllers.UserController",
-    "Method": "UserLogin",
-    "RelativePath": "User/UserLogin",
+    "Method": "UserLoginn",
+    "RelativePath": "User/UserLoginn",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
     "Parameters": [
       {
         "Name": "userModel",
-        "Type": "AuditLog.API.Models.UserModel",
+        "Type": "AuditLog.API.Models.UserLoginModel",
         "IsRequired": true
       }
     ],
-    "ReturnTypes": []
+    "ReturnTypes": [
+      {
+        "Type": "AuditLog.API.Models.UserResponseModel",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
   }
 ]

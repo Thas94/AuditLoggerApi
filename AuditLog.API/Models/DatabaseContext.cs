@@ -16,6 +16,7 @@ namespace AuditLog.API.Models
         }
 
         public DbSet<AuditLog> AuditLogs { get; set; }
+        public DbSet<IncorrectPasswords>  IncorrectPasswords { get; set; }
 
         protected override void OnModelCreating(ModelBuilder builder)
         {

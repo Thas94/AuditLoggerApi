@@ -1,5 +1,7 @@
 using System.Text;
 using AuditLog.API.Models;
+using AuditLog.API.Services;
+using AuditLog.API.Services.Interfaces;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
@@ -86,6 +88,9 @@ builder.Services.AddAuthentication(x =>
             ValidateLifetime = true
         };
     });
+
+builder.Services.AddScoped<IUserService, UserService>();
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

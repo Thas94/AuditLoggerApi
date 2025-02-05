@@ -10,7 +10,7 @@ namespace AuditLog.API.Services
         public readonly ILogger _logger;
         public readonly DatabaseContext _databaseContext;
         public readonly UserManager<UserIdentity> _userManager;
-        private readonly IConfiguration _configuration;
+        public readonly IConfiguration _configuration;
 
         public BaseService(IMapper mapper, ILogger logger, DatabaseContext databaseContext, UserManager<UserIdentity> userManager, IConfiguration configuration)
         {

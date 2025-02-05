@@ -6,11 +6,13 @@ C:\Websites\AuditLogger\AuditLog.API\AuditLog.API\bin\Debug\net8.0\AuditLog.API.
 C:\Websites\AuditLogger\AuditLog.API\AuditLog.API\bin\Debug\net8.0\AuditLog.API.runtimeconfig.json
 C:\Websites\AuditLogger\AuditLog.API\AuditLog.API\bin\Debug\net8.0\AuditLog.API.dll
 C:\Websites\AuditLogger\AuditLog.API\AuditLog.API\bin\Debug\net8.0\AuditLog.API.pdb
+C:\Websites\AuditLogger\AuditLog.API\AuditLog.API\bin\Debug\net8.0\AutoMapper.dll
 C:\Websites\AuditLogger\AuditLog.API\AuditLog.API\bin\Debug\net8.0\Azure.Core.dll
 C:\Websites\AuditLogger\AuditLog.API\AuditLog.API\bin\Debug\net8.0\Azure.Identity.dll
 C:\Websites\AuditLogger\AuditLog.API\AuditLog.API\bin\Debug\net8.0\EntityFramework.SqlServer.dll
 C:\Websites\AuditLogger\AuditLog.API\AuditLog.API\bin\Debug\net8.0\EntityFramework.dll
 C:\Websites\AuditLogger\AuditLog.API\AuditLog.API\bin\Debug\net8.0\Humanizer.dll
+C:\Websites\AuditLogger\AuditLog.API\AuditLog.API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\Websites\AuditLogger\AuditLog.API\AuditLog.API\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
 C:\Websites\AuditLogger\AuditLog.API\AuditLog.API\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
 C:\Websites\AuditLogger\AuditLog.API\AuditLog.API\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
@@ -166,6 +168,7 @@ C:\Websites\AuditLogger\AuditLog.API\AuditLog.API\obj\Debug\net8.0\AuditLog.API.
 C:\Websites\AuditLogger\AuditLog.API\AuditLog.API\obj\Debug\net8.0\AuditLog.API.csproj.CoreCompileInputs.cache
 C:\Websites\AuditLogger\AuditLog.API\AuditLog.API\obj\Debug\net8.0\AuditLog.API.MvcApplicationPartsAssemblyInfo.cs
 C:\Websites\AuditLogger\AuditLog.API\AuditLog.API\obj\Debug\net8.0\AuditLog.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Websites\AuditLogger\AuditLog.API\AuditLog.API\obj\Debug\net8.0\AuditLog.API.sourcelink.json
 C:\Websites\AuditLogger\AuditLog.API\AuditLog.API\obj\Debug\net8.0\scopedcss\bundle\AuditLog.API.styles.css
 C:\Websites\AuditLogger\AuditLog.API\AuditLog.API\obj\Debug\net8.0\staticwebassets.build.json
 C:\Websites\AuditLogger\AuditLog.API\AuditLog.API\obj\Debug\net8.0\staticwebassets.development.json
@@ -183,5 +186,3 @@ C:\Websites\AuditLogger\AuditLog.API\AuditLog.API\obj\Debug\net8.0\refint\AuditL
 C:\Websites\AuditLogger\AuditLog.API\AuditLog.API\obj\Debug\net8.0\AuditLog.API.pdb
 C:\Websites\AuditLogger\AuditLog.API\AuditLog.API\obj\Debug\net8.0\AuditLog.API.genruntimeconfig.cache
 C:\Websites\AuditLogger\AuditLog.API\AuditLog.API\obj\Debug\net8.0\ref\AuditLog.API.dll
-C:\Websites\AuditLogger\AuditLog.API\AuditLog.API\bin\Debug\net8.0\AutoMapper.dll
-C:\Websites\AuditLogger\AuditLog.API\AuditLog.API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll

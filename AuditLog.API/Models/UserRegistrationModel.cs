@@ -2,7 +2,7 @@
 
 namespace AuditLog.API.Models
 {
-    public class UserModel
+    public class UserRegistrationModel
     {
         public string? FirstName { get; set; }
         public string? LastName { get; set; }
