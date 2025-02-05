@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "SjNOONc1V/rl2J1lTkv11dfix6qJggtlS6cJQ5jGsWw=",
+  "Source": "AuditLog.API",
+  "BasePath": "_content/AuditLog.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
