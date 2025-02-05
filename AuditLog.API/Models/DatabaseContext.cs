@@ -23,29 +23,27 @@ namespace AuditLog.API.Models
             base.OnModelCreating(builder);
         }
 
-        public override Task<int> SaveChangesAsync(bool acceptAllChangesOnSuccess, CancellationToken cancellationToken = default)
+        public override int SaveChanges()
         {
             var modifiedEntities = ChangeTracker.Entries()
-                .Where(x => x.State == EntityState.Added
-                || x.State == EntityState.Modified
-                || x.State == EntityState.Deleted)
-                .ToList();
+            .Where(x => x.State == EntityState.Added
+            || x.State == EntityState.Modified
+            || x.State == EntityState.Deleted)
+            .ToList();
 
             foreach (var entity in modifiedEntities)
             {
                 AuditLogs.Add(new AuditLog
                 {
                     EntityName = entity.Entity.GetType().Name,
-                    UserId = _contextAccessor.HttpContext.User.FindFirstValue(ClaimTypes.Name),
+                    UserId = _contextAccessor.HttpContext.User.Claims.FirstOrDefault(x => x.Type == "UserID").Value,
                     Action = entity.State.ToString(),
                     DateTimeStamp = DateTime.UtcNow,
                     Changes = GetChanges(entity)
                 });
             }
-
-            return base.SaveChangesAsync(acceptAllChangesOnSuccess, cancellationToken);
+            return base.SaveChanges();
         }
-
         private string GetChanges(EntityEntry entity)
         {
             var changes = new StringBuilder();
